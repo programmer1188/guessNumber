@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_the_game">Welcome to the Game!</string>
+    <string name="press_the_button_with_large_number">Press the button with large number</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+</resources>
